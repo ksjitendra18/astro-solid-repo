@@ -9,8 +9,8 @@ dependencies:
     specifier: ^0.7.0
     version: 0.7.0(typescript@5.4.5)
   '@astrojs/cloudflare':
-    specifier: ^10.1.0
-    version: 10.1.0(astro@4.9.1)
+    specifier: ^10.0.3
+    version: 10.0.3(astro@4.9.1)
   '@astrojs/solid-js':
     specifier: ^4.2.0
     version: 4.2.0(solid-js@1.8.17)(vite@5.2.11)
@@ -62,8 +62,8 @@ packages:
       - prettier-plugin-astro
     dev: false
 
-  /@astrojs/cloudflare@10.1.0(astro@4.9.1):
-    resolution: {integrity: sha512-26+mkkMNQ7lHQ9wEwPxNS/zUEZj/emYkHTmlmvgzkEq9J/vFI5QVtTur2R/ZIZ8SimpLqZJtsn584716Jqq1Nw==}
+  /@astrojs/cloudflare@10.0.3(astro@4.9.1):
+    resolution: {integrity: sha512-ERK1Na7sAFqcs8H9bAvBa3V+RbsFgkImZyRWrgCE62/mXNfCuLyc+sF32RMksWSMJOPrZRjXJz5I5IpCr4JUTA==}
     peerDependencies:
       astro: ^4.2.0
     dependencies:
